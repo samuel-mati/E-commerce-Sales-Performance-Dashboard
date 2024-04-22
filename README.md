@@ -9,8 +9,11 @@ Product Performance: Evaluate which products are selling well and which are not 
 Inventory Management: Monitor and manage inventory levels to prevent stockouts and minimize excess stock.
 ### Tools Used
 **MySQL**: Utilized for database management and advanced querying.
+
 **Python**: Used for data manipulation and integration with MySQL. Key libraries include Pandas for data frames and SQLAlchemy for database connections.
+
 **Tableau Public**: Employed for creating and publishing interactive visualizations of the data online.
+
 ### Data Model
 The database is structured into the following key tables:
 
